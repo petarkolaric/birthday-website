@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "hallo"
+title = "My New Hugo Site"
+[Author]
+name = "old"
